@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+	<title>
+	</title>
+<style>
+body {
+	font-family: 'Raleway', sans-serif;
+	margin: 0px;
+	background: grey
+}
+
+.topbar {
+	background: #e1d1d1;
+	height: 50px;
+}
+
+.container-fluid {
+}
+
+.col-desc {
+	position: relative;
+	width: 50%;
+	border: 1px solid #e1e1e1;
+margin: 0 auto
+}
+
+</style>
+</head>
+<body>
+	<div class="topbar">
+	</div>
+
+<div class="container-fluid">
+	<div class="col-desc">
+		Prova contenuti
+	</div>
+
+</div>
+</body>
